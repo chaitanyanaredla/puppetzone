@@ -5,3 +5,4 @@ file { '/temp.txt':
     mode   => '0644',
     content => 'Hi this is puppet/n';
 }
+
