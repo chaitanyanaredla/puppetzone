@@ -3,6 +3,6 @@ file { '/temp.txt':
     owner  => 'root',
     group  => 'root',
     mode   => '0644',
-    content => 'Hi this is puppet/n';
+    content => 'Hi this is puppet';
 }
 
