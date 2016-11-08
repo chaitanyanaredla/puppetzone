@@ -1,4 +1,4 @@
-file { 'name':
+file { '/mydir':
     ensure => directory,
     owner  => root,
     group  => root,
